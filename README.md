@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">Empowering Safety Through AI: When Every Second Counts. </h3>
-<<h4>Create an LLM- powered real-time emergency and disaster response alert system to improve awareness, evacuation and rescue procedures 
+<h4>Create an LLM- powered real-time emergency and disaster response alert system to improve awareness, evacuation and rescue procedures 
 </h4>
 
 ## Table of Contents
