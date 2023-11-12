@@ -1,6 +1,15 @@
-# Disaster Management Bot
+<h1 align="center">
+  <br>
+  
+  <br>
+       <img src="https://i.imgur.com/Qrnruzv.png" width="40%">
+      
+  <br>
+</h1>
 
-![Project Image](project_image.png)
+<h3 align="center">Empowering Safety Through AI: When Every Second Counts. </h3>
+
+
 
 ## Table of Contents
 - [Introduction](#introduction)
