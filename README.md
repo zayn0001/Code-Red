@@ -60,7 +60,7 @@ To use the Disaster Management Bot, send a WhatsApp message with 'hi' and your l
 
 
  <br>
-      <blockquote class="imgur-embed-pub" lang="en" data-id="a/JXRyZ17"  ><a href="//imgur.com/a/JXRyZ17"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+       <img src="https://i.imgur.com/o2GNLkL.png" width="40%">
       
   <br>
 ## Team Members:
