@@ -80,21 +80,6 @@ To use the Disaster Management Bot, send a WhatsApp message with 'hi' and your l
  4.Whatsapp Cloud API
   <br>
   <br>
- ## TECH STACKS USED
-
-<h4> 
-  1.NextJs
-  <br>
-  <br>
-  2.Cohere AI
-  <br>
-  <br>
- 3.FIREBASE REALTIME DB
-  <br>
-  <br>
- 4.TWILIO
-  <br>
-  <br>
  5.AWS Glue
   <br>
   <br>
