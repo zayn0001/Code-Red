@@ -2,7 +2,7 @@
   <br>
   
   <br>
-       <img src="https://i.imgur.com/Qrnruzv.png" width="90%">
+       <img src="https://i.imgur.com/Qrnruzv.png" width="60%">
       
   <br>
 </h1>
@@ -62,7 +62,7 @@ To use the Disaster Management Bot, send a WhatsApp message with 'hi' and your l
   <br>
   
  <br>
-       <img src="https://i.imgur.com/o2GNLkL.png" width="40%">
+       <img src="https://i.imgur.com/o2GNLkL.png" width="90%">
       
   <br>
   </h1>
