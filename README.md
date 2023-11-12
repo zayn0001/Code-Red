@@ -1,19 +1,57 @@
-# WhatsApp Platform Quick Start
+# Disaster Management Bot
 
-Welcome to your first step toward building awesome WhatsApp apps!
+![Project Image](project_image.png)
 
-This project contains the code for a simple webhook you can use to get started using the WhatsApp Platform.
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Conversations](#conversations)
+- [Contributing](#contributing)
+- [License](#license)
 
-The code here mirrors what is in our [webhook set up guide](https://developers.facebook.com/docs/whatsapp/cloud-api/guides/set-up-webhooks), and may be used as the starting point for doing the ["Get Started With the WhatsApp Business Cloud API guide"](https://developers.facebook.com/docs/whatsapp/getting-started/signing-up/).
+## Introduction
 
-## Additional Resources
+The Disaster Management Bot is an AI-powered virtual assistant designed to provide critical information and guidance during emergency situations, such as floods, to help people make informed decisions for their safety and survival.
 
-Interested in learning more about the WhatsApp Platform?
+During natural disasters, immediate access to information can be a matter of life and death. This bot aims to bridge that gap by offering real-time assistance and guidance.
 
-Check out these resources:
+![Bot in Action](bot_in_action.gif)
 
-- [**Webhook set up guide**](https://developers.facebook.com/docs/whatsapp/getting-started/signing-up/#configure-webhooks): The walkthrough for the code in this project.
+## Features
 
-- [**Quick start tutorial**](https://developers.facebook.com/docs/whatsapp/getting-started/signing-up/): Build your first app by remixing this project and following our quick start tutorial.
+- Real-time disaster information and guidance.
+- Quick and concise responses.
+- Emergency rescue measures.
+- Survival guide.
+- User-friendly interaction via WhatsApp.
 
-- [**WhatsApp Business Platform Documentation**](https://developers.facebook.com/docs/whatsapp/)
+## Installation
+
+To run the Disaster Management Bot, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies using `npm install`.
+3. Set up the necessary environment variables, including WhatsApp token, OpenAI API key, and other configuration options.
+4. Start the server using `npm start`.
+
+## Usage
+
+To use the Disaster Management Bot, send a WhatsApp message with a specific keyword or question related to disaster management. The bot will provide you with relevant information and guidance instantly.
+
+## Conversations
+
+Here are some example conversations that illustrate how the bot responds to user queries:
+
+- [How to find higher ground during a flood?](conversations/conversation1.md)
+- [What if I can't find higher ground?](conversations/conversation2.md)
+- [How can I signal for help with bright clothing or a flashlight?](conversations/conversation3.md)
+
+## Contributing
+
+Contributions are welcome! Whether you want to improve the bot's responses, add new features, or fix bugs, please feel free to open a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
