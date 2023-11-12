@@ -58,6 +58,11 @@ To run the Disaster Management Bot, follow these steps:
 
 To use the Disaster Management Bot, send a WhatsApp message with 'hi' and your location. The bot will provide you with relevant information and guidance on timely basis.
 
+
+ <br>
+      <blockquote class="imgur-embed-pub" lang="en" data-id="a/JXRyZ17"  ><a href="//imgur.com/a/JXRyZ17"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+      
+  <br>
 ## Team Members:
 
 - Mishal
