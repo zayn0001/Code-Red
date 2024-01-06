@@ -26,16 +26,6 @@ The Disaster Management Bot is an AI-powered virtual assistant designed to provi
 
 During natural disasters, immediate access to information can be a matter of life and death. This bot aims to bridge that gap by offering real-time assistance and guidance.
 
-### Reasons
-
-- Often slow and inefficient. 
-
-- Not targeted enough. 
-
-- Do not track the user or check on them.
-
-![Bot in Action](bot_in_action.gif)
-
 ## Features
 
 - Real-time disaster information and guidance.
@@ -44,15 +34,6 @@ During natural disasters, immediate access to information can be a matter of lif
 - Emergency Rescue Services
 - Survival guide.
 - User-friendly interaction via WhatsApp.
-
-## Installation
-
-To run the Disaster Management Bot, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Install the required dependencies using `npm install`.
-3. Set up the necessary environment variables, including WhatsApp token, OpenAI API key, and other configuration options.
-4. Start the server using `npm start`.
 
 ## Usage
 
