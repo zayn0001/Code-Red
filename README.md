@@ -13,7 +13,7 @@
 
 ## Introduction
 
-The Disaster Management Bot is an AI-powered virtual assistant designed to provide critical and real time information and guidance during emergency situations, such as floods, to help people make informed decisions for their safety and survival based on their current location.
+The Disaster Management WhatsApp Bot is an AI-powered virtual assistant designed to provide critical and real time information and guidance during emergency situations, such as floods, to help people make informed decisions for their safety and survival based on their current location.
 
 During natural disasters, immediate access to information can be a matter of life and death. This bot aims to bridge that gap by offering real-time assistance and guidance.
 
