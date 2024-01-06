@@ -30,14 +30,6 @@ During natural disasters, immediate access to information can be a matter of lif
 
 To use the Disaster Management Bot, send a WhatsApp message with 'hi' and your location. The bot will provide you with relevant information and guidance on timely basis.
 
-<h1 align="center">
-  <br>
-  
- <br>
-       <img src="https://i.imgur.com/o2GNLkL.png" width="90%">
-      
-  <br>
-  </h1>
   
 ## Team Members:
 
