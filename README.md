@@ -19,12 +19,11 @@ During natural disasters, immediate access to information can be a matter of lif
 
 ## Features
 
-- Real-time disaster information and guidance.
-- Emergency response call system
-- Quick and concise responses.
-- Emergency Rescue Services
-- Survival guide.
-- User-friendly interaction via WhatsApp.
+• Provides real-time information about specific locations of personal significance.
+• Allows users to input locations such as their home or their parents’ house, saving them on their profile.
+• Continuous monitoring of these locations by scouring the internet every hour for weather forecasts and disaster-related
+news.
+• Built using scheduled scraping python scripts on AWS Glue and WhatsApp webhooks hosted on Glitch
 
 ## Usage
 
